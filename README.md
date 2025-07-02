@@ -79,12 +79,3 @@ Projetos com foco em **educação**, **CRM escolar** e **visualizações interat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoPalandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopalandi/)  
 [![Gmail](https://img.shields.io/badge/gustavo.palandi.business@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.palandi.business@gmail.com)
 
----
-
-⭐ **Dica:** Crie um repositório fixo chamado `portfolio` ou `projects` com README organizando os links para todos os seus projetos profissionais mencionados no currículo.
-
----
-
-Se quiser, posso gerar esse arquivo `README.md` pronto para você subir. Quer que eu envie?
-
-Você também pode querer um [modelo para seu repositório portfólio](f), ideias de [projetos técnicos com Angular](f), ou ajuda para [organizar seu GitHub com pastas e descrição de cada projeto](f).
